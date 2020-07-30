@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/ThailanHigor/profile/blob/master/assets/logo2.png" width="50%"
+  <img src="https://github.com/ThailanHigor/profile/blob/master/assets/logo2.png" width="90%"
   alt="Thailan Higor" />
   <br>
 </p>
