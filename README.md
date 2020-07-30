@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/ThailanHigor/profile/blob/master/assets/logo.png" width="100%"
+<p align="center" >
+  <img src="https://github.com/ThailanHigor/profile/blob/master/assets/logo.png" width="60%"
   alt="Thailan Higor" />
   <br>
 </p>
@@ -14,4 +14,10 @@
 <h4 align="center">
   Living in <b>Volta Redonda</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>  
 </h4>
-<h4 align="center">Back-End Developer <b>/</b> at AM4 </h4>
+<h4 align="center">Back-End Developer at AM4 </h4>
+
+<p align="center" >
+  <a href="https://thailan.dev" alt="Site" target="blank">
+    https://thailan.dev
+</a>
+</p>
