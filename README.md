@@ -9,7 +9,7 @@
   Hello, I'm Thailan! 
 </h3>
 <p align="center">
-  .NET | Laravel | ReactJS | React Native | Python | Data Scientist | Django | Flask | Machine Learning 
+  .NET | Laravel | ReactJS | React Native | Python | Data Scientist | Django | Flask | Machine Learning | Elixir
 </p>
 <h4 align="center">
   Living in <b>Volta Redonda</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>  
