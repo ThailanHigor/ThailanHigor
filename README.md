@@ -14,7 +14,7 @@
 <h4 align="center">
   Living in <b>Volta Redonda</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>  
 </h4>
-<h4 align="center">Back-End Developer at AM4 </h4>
+<h4 align="center">Back-End Developer at Órama Investimentos </h4>
 
 <p align="center" >
   <a href="https://thailan.dev" alt="Site" target="blank">
