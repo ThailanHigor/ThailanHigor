@@ -1,9 +1,3 @@
-<p align="center" >
-  <img src="https://github.com/ThailanHigor/profile/blob/master/assets/logo5.png" width="50%"
-  alt="Thailan Higor" />
-  <br>
-</p>
-
 
 <h3 align="center">
   Hello, I'm Thailan! 
